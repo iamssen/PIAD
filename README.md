@@ -6,6 +6,7 @@ TODO
 
 ## Icons
 ![calendar.google.com](./icons/calendar.google.com.png)
+![map.google.com](./icons/map.google.com.png)
 ![duolingo.com](./icons/duolingo.com.png)
 ![notion.so](./icons/notion.so.png)
 ![youtube.com](./icons/youtube.com.png)
