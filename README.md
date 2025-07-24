@@ -10,6 +10,7 @@ TODO
 ![duolingo.com](./icons/duolingo.com.png)
 ![notion.so](./icons/notion.so.png)
 ![youtube.com](./icons/youtube.com.png)
+![notebooklm.google.com](./icons/notebooklm.google.com.png)
 
 ## Resources
 
