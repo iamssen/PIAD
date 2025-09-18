@@ -11,6 +11,7 @@ TODO
 ![notion.so](./icons/notion.so.png)
 ![youtube.com](./icons/youtube.com.png)
 ![notebooklm.google.com](./icons/notebooklm.google.com.png)
+![mail.notion.so](./icons/mail.notion.so.png)
 
 ## Resources
 
